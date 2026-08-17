@@ -8,7 +8,7 @@
   "server": {
     "ip": "servidor.voyageinc.co",
     "port": "35141",
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
