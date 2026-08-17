@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "servidor.voyageinc.co",
+    "ip": "VoyageSMP2.aternos.me",
     "port": "35141",
     "version": "1.20.1",
     "try-creative": false
